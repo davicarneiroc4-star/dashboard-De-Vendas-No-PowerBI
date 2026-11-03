@@ -5,10 +5,12 @@ Dashboard interativo desenvolvido em Power BI para análise de performance de ve
 ## 🖼️ Prévia
 
 ### Página 1 — Visão Geral
-![Página 1 - Visão Geral](imagens/pagina%201.png)
+<img width="1405" height="803" alt="image" src="https://github.com/user-attachments/assets/2a079f67-6e71-4f70-b17d-b19711abe09b" />
+
 
 ### Página 2 — Evolução e Categorias
-![Página 2 - Evolução e Categorias](imagens/pagina%202.png)
+<img width="1403" height="811" alt="image" src="https://github.com/user-attachments/assets/aa59a35d-e3da-4cb6-900d-93437ee2415e" />
+
 
 ## 🎯 Objetivo
 
