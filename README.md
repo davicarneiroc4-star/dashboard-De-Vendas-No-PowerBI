@@ -7,10 +7,11 @@ Dashboard interativo em Power BI para analisar as vendas de uma loja de autopeç
 ## 🖼️ Prévia
 
 ### Página 1 — Visão Geral
-<img width="1405" height="803" alt="Página 1 do dashboard: visão geral das vendas" src="https://github.com/user-attachments/assets/2a079f67-6e71-4f70-b17d-b19711abe09b" />
+<img width="1416" height="807" alt="image" src="https://github.com/user-attachments/assets/a0e6a312-01b3-4644-9403-ae9a8361a47a" />
+
 
 ### Página 2 — Evolução e Categorias
-<img width="1403" height="811" alt="Página 2 do dashboard: evolução e categorias" src="https://github.com/user-attachments/assets/aa59a35d-e3da-4cb6-900d-93437ee2415e" />
+<img width="1414" height="810" alt="image" src="https://github.com/user-attachments/assets/5e806eda-ee8d-405d-8e05-a716a3026193" />
 
 ## 🎯 Objetivo
 
